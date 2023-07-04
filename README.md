@@ -4,6 +4,8 @@
 - Publications:
   - [Extraction and analysis of retrievable memory artifacts from Windows Telegram Desktop application](https://doi.org/10.1016/j.fsidi.2022.301342). Tools developed: [Windows Memory Extractor](https://github.com/reverseame/windows-memory-extractor) and [Instant Messaging Artifact Finder](https://github.com/reverseame/instant-messaging-artifact-finder).
   - [Module extraction and DLL hijacking detection via single or multiple memory dumps](https://doi.org/10.1016/j.fsidi.2023.301505). Tools developed: [Modex and InterModex](https://github.com/reverseame/modex).
+- Others:
+  - [Cybersecurity acronyms](https://github.com/pedrofdez26/cybersecurity-acronyms)
 
 <!---
 pedrofdez26/pedrofdez26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
