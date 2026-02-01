@@ -9,6 +9,7 @@
   - [Trabajo Fin de Grado](https://github.com/pedrofdez26/pedrofdez26/blob/main/TFG.pdf)
   - [Cybersecurity acronyms](https://github.com/pedrofdez26/cybersecurity-acronyms)
   - [CSS art](https://codepen.io/pedrofdez26/pens/public)
+  - [Goodreads](https://www.goodreads.com/pedrofdez26)
 
 <!---
 pedrofdez26/pedrofdez26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
