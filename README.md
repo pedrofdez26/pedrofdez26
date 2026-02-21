@@ -1,15 +1,23 @@
 - :wave: Hi! I’m Pedro Fernández
 - :eyes: I’m interested in pretty much everything related to cybersecurity, cloud computing, and software engineering :computer:
-- More about me :point_right: [LinkedIn](https://www.linkedin.com/in/pedrofernandezalvarez/) :heavy_plus_sign: [TryHackMe](https://tryhackme.com/p/PedroFdez26) :heavy_plus_sign: [Credly](https://www.credly.com/users/pedro-fernandez-alvarez/badges) :heavy_plus_sign: My [progress](https://github.com/pedrofdez26/pedrofdez26/blob/main/WebSecurityAcademyProgress.png) in the [Web Security Academy](https://portswigger.net/web-security)
+- Profiles:
+  - [LinkedIn](https://www.linkedin.com/in/pedrofernandezalvarez/)
+  - [TryHackMe](https://tryhackme.com/p/PedroFdez26)
+  - [Credly](https://www.credly.com/users/pedro-fernandez-alvarez/badges)
+  - [Goodreads](https://www.goodreads.com/pedrofdez26)
 - Publications:
-  - [Extraction and analysis of retrievable memory artifacts from Windows Telegram Desktop application](https://doi.org/10.1016/j.fsidi.2022.301342). Tools developed: [Windows Memory Extractor](https://github.com/reverseame/windows-memory-extractor) and [Instant Messaging Artifact Finder](https://github.com/reverseame/instant-messaging-artifact-finder).
   - [Module extraction and DLL hijacking detection via single or multiple memory dumps](https://doi.org/10.1016/j.fsidi.2023.301505). Tools developed: [Modex and InterModex](https://github.com/reverseame/modex).
+  - [Extraction and analysis of retrievable memory artifacts from Windows Telegram Desktop application](https://doi.org/10.1016/j.fsidi.2022.301342). Tools developed: [Windows Memory Extractor](https://github.com/reverseame/windows-memory-extractor) and [Instant Messaging Artifact Finder](https://github.com/reverseame/instant-messaging-artifact-finder).
+- Favorites:
+  - Podcasts: [Security Now](https://twit.tv/shows/security-now) :heavy_plus_sign: [Darknet Diaries](https://darknetdiaries.com/)
+  - Investigative journalism: [404 Media](https://www.404media.co/) :heavy_plus_sign: [Krebs on Security](https://krebsonsecurity.com/)
+  - YouTube channels: [John Savill's Technical Training](https://www.youtube.com/@NTFAQGuy) :heavy_plus_sign: [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) :heavy_plus_sign: [IBM Technology](https://www.youtube.com/@IBMTechnology)
 - Others:
   - [Trabajo Fin de Máster](https://github.com/pedrofdez26/pedrofdez26/blob/main/TFM.pdf)
   - [Trabajo Fin de Grado](https://github.com/pedrofdez26/pedrofdez26/blob/main/TFG.pdf)
+  - My [progress](https://github.com/pedrofdez26/pedrofdez26/blob/main/WebSecurityAcademyProgress.png) in the [Web Security Academy](https://portswigger.net/web-security)
   - [Cybersecurity acronyms](https://github.com/pedrofdez26/cybersecurity-acronyms)
   - [CSS art](https://codepen.io/pedrofdez26/pens/public)
-  - [Goodreads](https://www.goodreads.com/pedrofdez26)
 
 <!---
 pedrofdez26/pedrofdez26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
