@@ -12,10 +12,11 @@
   - Podcasts: [Security Now](https://twit.tv/shows/security-now) :heavy_plus_sign: [Darknet Diaries](https://darknetdiaries.com/)
   - Investigative journalism: [404 Media](https://www.404media.co/) :heavy_plus_sign: [Krebs on Security](https://krebsonsecurity.com/)
   - YouTube channels: [John Savill's Technical Training](https://www.youtube.com/@NTFAQGuy) :heavy_plus_sign: [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) :heavy_plus_sign: [IBM Technology](https://www.youtube.com/@IBMTechnology)
+  - Videogames: [LIMBO](https://playdead.com/games/limbo/) :heavy_plus_sign: [2048](https://play2048.co/classic)
 - Others:
-  - [Trabajo Fin de Máster](https://github.com/pedrofdez26/pedrofdez26/blob/main/TFM.pdf)
-  - [Trabajo Fin de Grado](https://github.com/pedrofdez26/pedrofdez26/blob/main/TFG.pdf)
-  - My [progress](https://github.com/pedrofdez26/pedrofdez26/blob/main/WebSecurityAcademyProgress.png) in the [Web Security Academy](https://portswigger.net/web-security)
+  - [Trabajo Fin de Máster](https://github.com/pedrofdez26/pedrofdez26/blob/main/Documents/TFM.pdf)
+  - [Trabajo Fin de Grado](https://github.com/pedrofdez26/pedrofdez26/blob/main/Documents/TFG.pdf)
+  - [Progress](https://github.com/pedrofdez26/pedrofdez26/blob/main/Web_Security_Academy/Web_Security_Academy_Progress.png) in the [Web Security Academy](https://portswigger.net/web-security)
   - [Cybersecurity acronyms](https://github.com/pedrofdez26/cybersecurity-acronyms)
   - [CSS art](https://codepen.io/pedrofdez26/pens/public)
 
