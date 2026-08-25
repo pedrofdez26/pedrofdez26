@@ -2,7 +2,7 @@
 - :eyes: I’m interested in pretty much everything related to cybersecurity, cloud computing, and software engineering :computer:
 - Profiles:
   - [LinkedIn](https://www.linkedin.com/in/pedrofernandezalvarez/)
-  - [TryHackMe](https://tryhackme.com/p/PedroFdez26)
+  - TryHackMe: [Current status](https://tryhackme.com/p/PedroFdez26) :heavy_plus_sign: [January 2026 status](https://github.com/pedrofdez26/pedrofdez26/blob/main/TryHackMe/Profile_Snapshots/TryHackMe_Profile_January_2026.jpg) :heavy_plus_sign: [Completed learning paths](https://github.com/pedrofdez26/pedrofdez26/blob/main/TryHackMe/Learning_Paths)
   - [Credly](https://www.credly.com/users/pedro-fernandez-alvarez/badges)
   - [Goodreads](https://www.goodreads.com/pedrofdez26)
 - Publications:
